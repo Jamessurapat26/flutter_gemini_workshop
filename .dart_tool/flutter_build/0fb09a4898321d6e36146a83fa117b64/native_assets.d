@@ -1,0 +1,1 @@
+ D:\\Programming\ Profile\\Flutter\\workshop\\gemini-copy\\flutter_gemini_workshop\\.dart_tool\\flutter_build\\0fb09a4898321d6e36146a83fa117b64\\native_assets.yaml: 
